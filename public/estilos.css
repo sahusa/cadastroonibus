@@ -14,7 +14,7 @@ h3{
     left: 100px;
 }
 
-/*Imagem da página 2*/
+/*Imagem da página 2*//*Funda da página gerada*/
 h1 img{
     margin: 10px;
     width: 800px;
@@ -99,12 +99,12 @@ h1 img{
 }
 
 .gmodelo{
-    top: 660px;
+    top: 550px;
     font-weight: bold;
 }
 
 .gplaca{
-    top: 770px;
+    top: 660px;
     font-weight: bold;
 }
 
